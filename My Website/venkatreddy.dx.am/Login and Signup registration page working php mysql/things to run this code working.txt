@@ -1,0 +1,10 @@
+everything is setted up
+
+
+need mysql connections to be updated
+ and
+ needed php server or web server
+
+ copy files to server and keep and index file as opening file
+
+ thats it everything setted up
